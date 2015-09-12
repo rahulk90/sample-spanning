@@ -5,3 +5,4 @@ This repository contains code to sample spanning trees from weighted undirected 
 
 ## Requirements
 * [Boost Library (>= v.1.55)](http://www.boost.org/)
+* [Edmond's Algorithm](http://edmonds-alg.sourceforge.net/)
